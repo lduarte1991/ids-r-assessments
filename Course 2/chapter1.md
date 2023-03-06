@@ -1,5 +1,5 @@
 ---
-title: Data Types
+title: Data Types :)
 description: In this course we introduce you to the basics of various data types.
 free_preview: true
 ---
