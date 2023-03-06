@@ -1,5 +1,5 @@
 ---
-title: Data Visualization Principles - Part 3
+title: Data Visualization Principles - Parte 3
 description: Part 3 of data visualization principles exercises
 ---
 
