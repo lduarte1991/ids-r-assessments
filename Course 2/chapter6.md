@@ -1,5 +1,5 @@
 ---
-title: Introduction to ggplot2
+title: Introducción a ggplot2
 description: >-
   You'll learn how to make use of the powerful R package, ggplot2, for
   visualization
